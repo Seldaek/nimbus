@@ -1,0 +1,16 @@
+{
+    "name": "seld/nimbus",
+    "description": "Nimbus leverages the cloud to store modern PHP web applications free of charge",
+    "keywords": ["joke", "framework", "cloud"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jordi Boggiano",
+            "email": "j.boggiano@seld.be"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
